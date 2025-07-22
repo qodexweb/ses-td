@@ -1,0 +1,256 @@
+Uri: https://code.jquery.com/jquery-1.12.0.min.js
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\jquery-1.12.0.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:600,400
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:600,400,700
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\s\opensans\v43\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\bootstrap\3.3.6\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\bootstrap\3.3.6\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\bootstrap\3.3.6\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\bootstrap\3.3.6\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\bootstrap\3.3.6\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\bootstrap\3.3.6\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\bootstrap\3.3.6\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\bootstrap\3.3.6\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\font-awesome\4.5.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\font-awesome\4.5.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?v=4.5.0
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\font-awesome\4.5.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.svg?v=4.5.0
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\font-awesome\4.5.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.ttf?v=4.5.0
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\font-awesome\4.5.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff2?v=4.5.0
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\font-awesome\4.5.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff?v=4.5.0
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\font-awesome\4.5.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://ses-td.com/about.html
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\about.html
+Content Type: text/html
+
+Uri: https://ses-td.com/contact.html
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\contact.html
+Content Type: text/html
+
+Uri: https://ses-td.com/css/grabbing.png
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\css (1)\grabbing.png
+Content Type: image/png
+
+Uri: https://ses-td.com/css/offcanvas.css
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\css (1)\offcanvas.css
+Content Type: text/css
+
+Uri: https://ses-td.com/css/owl.carousel.css
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\css (1)\owl.carousel.css
+Content Type: text/css
+
+Uri: https://ses-td.com/css/owl.theme.css
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\css (1)\owl.theme.css
+Content Type: text/css
+
+Uri: https://ses-td.com/css/style.css
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\css (1)\style.css
+Content Type: text/css
+
+Uri: https://ses-td.com/epc-turnkey-contract.html
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\epc-turnkey-contract.html
+Content Type: text/html
+
+Uri: https://ses-td.com/high-voltage-construction.html
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\high-voltage-construction.html
+Content Type: text/html
+
+Uri: https://ses-td.com/img/about.jpg
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\img\about.jpg
+Content Type: image/jpeg
+
+Uri: https://ses-td.com/img/favicon.ico
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://ses-td.com/img/logo.png
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\img\logo.png
+Content Type: image/png
+
+Uri: https://ses-td.com/img/quote-bg.jpg
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\img\quote-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://ses-td.com/img/service/epc-turnkey-contract.jpg
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\img\service\epc-turnkey-contract.jpg
+Content Type: image/jpeg
+
+Uri: https://ses-td.com/img/service/high-voltage-construction.jpg
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\img\service\high-voltage-construction.jpg
+Content Type: image/jpeg
+
+Uri: https://ses-td.com/img/service/industrial-service-maintenance.jpg
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\img\service\industrial-service-maintenance.jpg
+Content Type: image/jpeg
+
+Uri: https://ses-td.com/img/service/operation-and-maintenance.jpg
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\img\service\operation-and-maintenance.jpg
+Content Type: image/jpeg
+
+Uri: https://ses-td.com/img/service/power-station-service.jpg
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\img\service\power-station-service.jpg
+Content Type: image/jpeg
+
+Uri: https://ses-td.com/img/service/technical-manpower-supply.jpg
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\img\service\technical-manpower-supply.jpg
+Content Type: image/jpeg
+
+Uri: https://ses-td.com/img/service/telecommunication.jpg
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\img\service\telecommunication.jpg
+Content Type: image/jpeg
+
+Uri: https://ses-td.com/img/service/third-party-inspection.jpg
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\img\service\third-party-inspection.jpg
+Content Type: image/jpeg
+
+Uri: https://ses-td.com/img/slide2.jpg
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\img\slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://ses-td.com/img/slide3.jpg
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\img\slide3.jpg
+Content Type: image/jpeg
+
+Uri: https://ses-td.com/img/slide4.jpg
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\img\slide4.jpg
+Content Type: image/jpeg
+
+Uri: https://ses-td.com/img/welcome.jpg
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\img\welcome.jpg
+Content Type: image/jpeg
+
+Uri: https://ses-td.com/index.html
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\index.html
+Content Type: text/html
+
+Uri: https://ses-td.com/industrial-service-maintenance.html
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\industrial-service-maintenance.html
+Content Type: text/html
+
+Uri: https://ses-td.com/js/hippo-off-canvas.js
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\js\hippo-off-canvas.js
+Content Type: text/javascript
+
+Uri: https://ses-td.com/js/owl.carousel.min.js
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\js\owl.carousel.min.js
+Content Type: text/javascript
+
+Uri: https://ses-td.com/operation-and-maintenance.html
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\operation-and-maintenance.html
+Content Type: text/html
+
+Uri: https://ses-td.com/power-station-service.html
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\power-station-service.html
+Content Type: text/html
+
+Uri: https://ses-td.com/service.html
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\service.html
+Content Type: text/html
+
+Uri: https://ses-td.com/technical-manpower-supply.html
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\technical-manpower-supply.html
+Content Type: text/html
+
+Uri: https://ses-td.com/telecommunication.html
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\telecommunication.html
+Content Type: text/html
+
+Uri: https://ses-td.com/testing-commissionings-services.html
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\testing-commissionings-services.html
+Content Type: text/html
+
+Uri: https://ses-td.com/third-party-inspection.html
+File Name: C:\Users\Senthilkumar\Desktop\comindex\ses-td.com\third-party-inspection.html
+Content Type: text/html
+
